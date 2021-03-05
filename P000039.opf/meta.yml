@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000039
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་མངོན་པ་རྣམ་པར་འབྱེད་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-03
   layers:
   - book_title
   - author
+  id: KS-PK-03
 web_metadata:
   title:
     en: An Analysis of the Abhidharma
